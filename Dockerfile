@@ -1,4 +1,4 @@
-From ypzhuang/jdk_alpine
+FROM ypzhuang/jdk_alpine
 
 ENV NPM_CONFIG_LOGLEVEL info
 ENV NODE_VERSION 6.10.3
